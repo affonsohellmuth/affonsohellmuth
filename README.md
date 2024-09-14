@@ -59,3 +59,7 @@
 ###
 
 <h3 align="left">Commits</h3>
+
+![Snake Animation](https://github.com/affonsohellmuth/affonsohellmuth/blob/output/github-contribution-grid-snake.svg)
+
+![readme](https://github-readme-stats.vercel.app/api/pin?username=affonsohellmuth&repo=affonsohellmuth&theme=react)](https://github.com/affonsohellmuth/affonsohellmuth)
