@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Affonso Helmuth</h2>
+<h2 align="left">Affonso Helmuth</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor de software de Goiânia. Estou cursando Sistemas de Informação na Universidade Estadual de Goiás, com o objetivo de me tornar um Desenvolvedor Backend.</p>
+<p align="left">Desenvolvedor de software graduando em Sistemas de Informação pela Universidade Estadual de Goiás.</p>
 
 ###
 
