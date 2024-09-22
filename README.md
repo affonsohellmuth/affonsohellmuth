@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Meu nome é Affonso Helmuth, sou Desenvolvedor de software graduando em Sistemas de Informação pela Universidade Estadual de Goiás. Meu foco principal é em desenvolvimento web.</p>
+<p align="center">Meu nome é Affonso Helmuth, sou Desenvolvedor de software graduando em Sistemas de Informação pela Universidade Estadual de Goiás.</p>
 
 ###
 
